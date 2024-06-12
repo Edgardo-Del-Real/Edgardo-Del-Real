@@ -25,7 +25,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,cs,github,git,wordpress" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,cs,bootstrap,github,git,wordpress" /><br>
   <p>Espero poder sumar muchos más <b>Languages-Frameworks-Tools</b> proximamente </p>
 </div>
 
