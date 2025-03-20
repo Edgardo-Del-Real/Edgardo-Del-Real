@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <p>🌱 En estos momentos estoy realizando un curso de programación Full Stack con el fin de ampliar mis conocimientos</p>
+  <p>🌱 Desarrollador FullStack</p>
   <p>📝 Si deseas contactarme, puedes hacerlo mediante las siguientes redes:</p>
 </div>
 
@@ -25,7 +25,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,cs,bootstrap,github,git,wordpress" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,cs,bootstrap,github,git,wordpress,react,nodejs,javascript,postgresql,mysql" /><br>
   <p>Espero poder sumar muchos más <b>Languages-Frameworks-Tools</b> proximamente </p>
 </div>
 
